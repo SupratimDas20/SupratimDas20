@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me 
--             email:sd3646@srmist.edu.in
--                   dassupratim553@gmail.com
--             linkdin:https://www.linkedin.com/in/supratim-das-24924b189/
+- email:sd3646@srmist.edu.in
+- dassupratim553@gmail.com
+-  linkdin:https://www.linkedin.com/in/supratim-das-24924b189/
 
 <!---
 SupratimDas20/SupratimDas20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
