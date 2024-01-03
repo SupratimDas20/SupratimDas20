@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me 
 - email: supratimdaswork@gmail.com
+- twitter: https://twitter.com/supratimdaswork
 - linkdin: https://www.linkedin.com/in/supratim-das-24924b189/
 
 <!---
