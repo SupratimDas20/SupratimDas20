@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://SupratimDas20.io)
+<h1align="left">Hi 👋! My name is Supratim Das and I'm a developer, from India</h2>
 
 ###
 
