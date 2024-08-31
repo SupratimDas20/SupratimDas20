@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src=""  />
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animaated%20ci%3Doding%20gif&imgurl=https%3A%2F%2Fforum.radxa.com%2Fuploads%2Fdefault%2Foriginal%2F2X%2F0%2F0700553091f087b04779ef2444f081ad45b24dc2.gif&imgrefurl=https%3A%2F%2Fforum.radxa.com%2Ft%2Farmbian-the-best-arm-framework%2F14979&docid=SG30--LfEudNrM&tbnid=lOVHfmlB5VxehM&vet=12ahUKEwjz7sur45-IAxUycGwGHc0cAWUQM3oECCMQAA..i&w=1920&h=597&hcb=2&ved=2ahUKEwjz7sur45-IAxUycGwGHc0cAWUQM3oECCMQAA">
 
 ###
 
