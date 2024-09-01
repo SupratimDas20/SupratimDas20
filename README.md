@@ -1,5 +1,4 @@
-<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://SupratimDas20.io)
-<h1 align="left">Hi 👋! My name is Supratim Das and I'm a developer, from India</h2> -->
+[![MasterHead](https://www.deviantart.com/pixeljeff/art/Coding-990517671)](https://SupratimDas20.io)
 
 <h1 align="center">👨‍💻 Supratim Das </h1>
 <h3 align="center">I'm a developer, from India, love learning and building</h3>
@@ -12,15 +11,12 @@
 <li>👨‍💻 Love to learn new technologies and to explore new sets of areas.</li>
 <li>👁‍🗨 Open Source Contributor.</li>
 <li>🚀 Passionate About Crafting Efficient Code.</li>
-<li>📘 I’m Currently Studying Machine learning and Generative Artificial Intelligence.</li>
+<li>📘 I’m Currently Studying Machine leaarnig and Generative Artificial Intelligence.</li>
 <li>👯 I’m looking to collaborate on OpenSource Projects.</li>
 <li>📔 Live <a href="https://docs.google.com/document/d/1GA50-wfsZn76xRbRe0t4v113tKR1YdaVfLijlWbcMUY/edit">MyResume</a>.</li>
 <li>🔥 My DSA and Development Skills.</li>
-<li>👨‍💻 Check My! <a href="">CodingProfile</a>.</li>
+<li>👨‍💻 Check My! <a href="https://codolio.com/profile/m16r4Sz3#">CodingProfile</a>.</li>
 </ul>
-
-
-
 
 # 🌐 Socials:
 
