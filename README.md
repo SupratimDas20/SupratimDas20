@@ -5,16 +5,18 @@
 
 # 🙋‍♂️ About Me
 
-🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.
-👨‍💻 Love to learn new technologies and to explore new sets of areas.
-👁‍🗨 Open Source Contributor
-🚀 Passionate About Crafting Efficient Code
-📘 I’m Currently Studying Machine leaarnig and Generative Artificial Intelligence
-👯 I’m looking to collaborate on OpenSource Projects
-📔 Live MyResume
-🔥 My DSA and Development Skills
-👨‍💻 Check My! CodingProfile
+<ul>
 
+<li>🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always     ready to learn new things with Effective ideas.
+<li>👨‍💻 Love to learn new technologies and to explore new sets of areas.</li>
+<li>👁‍🗨 Open Source Contributor.</li>
+<li>🚀 Passionate About Crafting Efficient Code.</li>
+<li>📘 I’m Currently Studying Machine leaarnig and Generative Artificial Intelligence.</li>
+<li>👯 I’m looking to collaborate on OpenSource Projects.</li>
+<li>📔 Live MyResume.</li>
+<li>🔥 My DSA and Development Skills.</li>
+<li>👨‍💻 Check My! CodingProfile.</li>
+</ul>
 ###
 
 <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animaated%20ci%3Doding%20gif&imgurl=https%3A%2F%2Fforum.radxa.com%2Fuploads%2Fdefault%2Foriginal%2F2X%2F0%2F0700553091f087b04779ef2444f081ad45b24dc2.gif&imgrefurl=https%3A%2F%2Fforum.radxa.com%2Ft%2Farmbian-the-best-arm-framework%2F14979&docid=SG30--LfEudNrM&tbnid=lOVHfmlB5VxehM&vet=12ahUKEwjz7sur45-IAxUycGwGHc0cAWUQM3oECCMQAA..i&w=1920&h=597&hcb=2&ved=2ahUKEwjz7sur45-IAxUycGwGHc0cAWUQM3oECCMQAA">
