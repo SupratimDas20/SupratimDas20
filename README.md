@@ -1,5 +1,5 @@
-<h1 align="left">👨‍💻 Supratim Das </h1>
-<h2>I'm a developer, from India</h2>
+<h1 align="center">👨‍💻 Supratim Das </h1>
+<h2>I'm a developer, from India,love learning and building</h2>
 
 
 # 🙋‍♂️ About Me
