@@ -1,4 +1,4 @@
-[![MasterHead](https://s3-alpha.figma.com/hub/file/5678700701/edff9344-027f-483a-bda9-833d69f0c4be-cover.png)](https://SupratimDas20.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://SupratimDas20.io)
 
 <h1 align="center">👨‍💻 Hi  I'm Supratim Das </h1>
 <h3 align="center">A developer, from India, thrives on learning new concepts and building transformative solutions</h3>
@@ -14,9 +14,9 @@
 <li>🚀 Passionate About Crafting Efficient Code.</li>
 <li>📘 I’m Currently Studying Machine leaarnig and Generative Artificial Intelligence.</li>
 <li>👯 I’m looking to collaborate on OpenSource Projects.</li>
-<li>📔 Live <a href="https://docs.google.com/document/d/1GA50-wfsZn76xRbRe0t4v113tKR1YdaVfLijlWbcMUY/edit">MyResume</a>.</li>
+<li>📔 Live <a href="(https://drive.google.com/file/d/1_2_qXDTjN0tSX5LSShyam-5VICI2hl24/view?usp=sharing)">MyResume</a>.</li>
 <li>🔥 My DSA and Development Skills.</li>
-<li>👨‍💻 Check My! <a href="https://codolio.com/profile/m16r4Sz3#">CodingProfile</a>.</li>
+<li>👨‍💻 Check My! <a href="https://linktr.ee/Supratim_Das">CodingProfile</a>.</li>
 </ul>
 
 # 🌐 Socials:
