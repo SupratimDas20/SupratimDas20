@@ -9,10 +9,10 @@
 <ul>
 
 <li>🥋 Passionate For Programming and Problem-Solving Enthusiast. Always ready to learn new things with Effective ideas.</li>
-<li>👨‍💻 Love to learn new technologies and to explore new sets of areas.</li>
-<li>👁‍🗨 Open Source Contributor.</li>
+<li>👨‍💻 Love to learn new technologies and explore new areas.</li>
+<!-- <li>👁‍🗨 Open Source Contributor.</li> -->
 <li>🚀 Passionate About Crafting Efficient Code.</li>
-<li>📘 I’m Currently Studying Machine leaarnig and Generative Artificial Intelligence.</li>
+<li>📘 I’m Currently Studying Machine learning and Generative Artificial Intelligence.</li>
 <li>👯 I’m looking to collaborate on OpenSource Projects.</li>
 <li>📔 Live <a href="https://drive.google.com/file/d/1_2_qXDTjN0tSX5LSShyam-5VICI2hl24/view?usp=sharing">MyResume</a>.</li>
 <li>🔥 My DSA and Development Skills.</li>
