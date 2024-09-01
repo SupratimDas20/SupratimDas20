@@ -1,8 +1,7 @@
-[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)](https://SupratimDas20.io)
+[![MasterHead](https://s3-alpha.figma.com/hub/file/5678700701/edff9344-027f-483a-bda9-833d69f0c4be-cover.png)](https://SupratimDas20.io)
 
-
-<h1 align="center">👨‍💻 Supratim Das </h1>
-<h3 align="center">I'm a developer, from India, love learning and building</h3>
+<h1 align="center">👨‍💻 Hi  I'm Supratim Das </h1>
+<h3 align="center">A developer, from India, thrives on learning new concepts and building transformative solutions</h3>
 <img align="right" alt="coding" width="200px" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952gvovsyhb1afpwdq5k9uz0cpx60yfbn6zv9s5rkd2&ep=v1_gifs_search&rid=200w.gif&ct=g" >
 
 # 🙋‍♂️ About Me
