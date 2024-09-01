@@ -12,7 +12,7 @@
 <li>👨‍💻 Love to learn new technologies and to explore new sets of areas.</li>
 <li>👁‍🗨 Open Source Contributor.</li>
 <li>🚀 Passionate About Crafting Efficient Code.</li>
-<li>📘 I’m Currently Studying Machine leaarnig and Generative Artificial Intelligence.</li>
+<li>📘 I’m Currently Studying Machine learning and Generative Artificial Intelligence.</li>
 <li>👯 I’m looking to collaborate on OpenSource Projects.</li>
 <li>📔 Live <a href="https://docs.google.com/document/d/1GA50-wfsZn76xRbRe0t4v113tKR1YdaVfLijlWbcMUY/edit">MyResume</a>.</li>
 <li>🔥 My DSA and Development Skills.</li>
@@ -20,11 +20,11 @@
 </ul>
 
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animaated%20ci%3Doding%20gif&imgurl=https%3A%2F%2Fforum.radxa.com%2Fuploads%2Fdefault%2Foriginal%2F2X%2F0%2F0700553091f087b04779ef2444f081ad45b24dc2.gif&imgrefurl=https%3A%2F%2Fforum.radxa.com%2Ft%2Farmbian-the-best-arm-framework%2F14979&docid=SG30--LfEudNrM&tbnid=lOVHfmlB5VxehM&vet=12ahUKEwjz7sur45-IAxUycGwGHc0cAWUQM3oECCMQAA..i&w=1920&h=597&hcb=2&ved=2ahUKEwjz7sur45-IAxUycGwGHc0cAWUQM3oECCMQAA">
+
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/supratimdas20/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/supratimdaswork)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/supratimdas20/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/supratimdaswork)
 
 # 💻 Tech Stack:
 
