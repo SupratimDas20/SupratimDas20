@@ -3,6 +3,7 @@
 
 <h1 align="center">👨‍💻 Supratim Das </h1>
 <h3 align="center">I'm a developer, from India, love learning and building</h3>
+<img align="right" alt="coding" width="400px" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952gvovsyhb1afpwdq5k9uz0cpx60yfbn6zv9s5rkd2&ep=v1_gifs_search&rid=200w.gif&ct=g" >
 
 # 🙋‍♂️ About Me
 
