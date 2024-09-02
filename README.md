@@ -14,6 +14,7 @@
 <li>🚀 Passionate About Crafting Efficient Code.</li>
 <li>📘 I’m Currently Studying Machine learning and Generative Artificial Intelligence.</li>
 <li>👯 I’m looking to collaborate on OpenSource Projects.</li>
+<li>👨‍💻 Enthusiastic about learning the latest technologies and diving into new domains.</li>
 <li>📔 Live <a href="https://drive.google.com/file/d/1_2_qXDTjN0tSX5LSShyam-5VICI2hl24/view?usp=sharing">MyResume</a>.</li>
 <li>🔥 My DSA and Development Skills.</li>
 <li>👨‍💻 Check My! <a href="https://linktr.ee/Supratim_Das">CodingProfile</a>.</li>
